@@ -17,8 +17,5 @@
             "Adamsmeat\\Udi": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "config": {
-        "preferred-install": "source"
-    }
+    "minimum-stability": "dev"
 }
